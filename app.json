@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Re4Life",
+    "slug": "Re4Life",
+    "scheme": "Re4Life",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+    },
+    "web": {
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
